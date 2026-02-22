@@ -5,7 +5,7 @@ import { useRef, useState, useEffect, useCallback } from "react";
 // ——— Media before "Why Koivu — Easy to Start. Zero Overhead" ———
 // Change src to swap video; poster = thumbnail before load; overlay 0–100
 const EDITORIAL_VIDEO = {
-  src: "https://videocdn.cdnpk.net/videos/ffda794d-6a48-5836-96e0-03ff997126fb/horizontal/previews/clear/large.mp4?token=exp=1771717557~hmac=1868be6711a428bbfbf9c57763ce04f4b0793ce2e38529f22aa04f926049b8a1",
+  src: "https://videocdn.cdnpk.net/videos/3275baf4-0fad-4aff-a149-50588181f985/horizontal/previews/clear/large.mp4?token=exp=1771723058~hmac=0f6ea2c453ab72dfa545f62e03384779ffbb5c402b292e1154168c19d3cf8979",
   poster: "", // e.g. "/images/editorial-poster.jpg"
   overlayOpacity: 30, // 0–100
   parallaxStrength: 30,
