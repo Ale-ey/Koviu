@@ -1,0 +1,12 @@
+export { IntroSection } from "./intro-section";
+export { MissingPieceSection } from "./missing-piece-section";
+export { WaiverSection } from "./waiver-section";
+export { QuoteSection } from "./quote-section";
+export { TableSection } from "./table-section";
+export { ScopeSection } from "./scope-section";
+export { UseCasesSection } from "./use-cases-section";
+export { LandscapeSection } from "./landscape-section";
+export { Approach1Section } from "./approach1-section";
+export { Approach2Section } from "./approach2-section";
+export { CtaSection } from "./cta-section";
+export { SectionScrollReveal } from "./section-scroll-reveal";
